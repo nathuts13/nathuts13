@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nathuts13
-- 👀 I’m interested in data science e analytics
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on database decisions
-- 📫 How to reach me https://www.linkedin.com/in/natasha-sousa-638887276/
+- 👋 Olá, eu sou @nathuts13
+- 👀 Estou interessada em ciência de dados e desenvolvimento web
+- 🌱 Estou aprendendo agora PHP, CSS avançado
+- 💞️ Estou querendo minha primeira oportunidade de carreira no mercado tech
+- 📫 Me encontre no seguinte link https://www.linkedin.com/in/natasha-sousa-638887276/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love movies
 
